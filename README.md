@@ -1,1 +1,1 @@
-# Laravel Kanban Board Test with Laravel and Vue.js
+# Laravel Kanban Board  with Laravel and Vue.js
